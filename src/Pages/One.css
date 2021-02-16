@@ -1,0 +1,70 @@
+.page-content {
+    background-color: rgb(250, 250, 250);
+    min-height: 100vh;
+    overflow-x: hidden;
+    padding-left: 17rem;
+}
+
+.card-body {
+    border-radius: 5px;
+}
+
+.card-pro {
+    background-color: rgb(42, 58, 68);
+}
+
+.card-cus {
+    background-color: rgb(212, 37, 37);
+}
+
+.card-tran {
+    background-color: rgb(255, 169, 40);
+}
+
+.text {
+    color: white;
+}
+
+.box {
+    margin: 10px 10px;
+    color: rgb(61, 61, 61);
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 10px 0.5px rgba(161, 161, 161, 0.1);
+    border-radius: 5px;
+    display: flex;
+}
+
+.box img {
+    margin: 10px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+
+}
+
+.info {
+    padding-left: 13px;
+    padding-top: 13px;
+}
+
+.btn-edit {
+    background: repeating-linear-gradient(rgb(42, 58, 68), rgb(42, 58, 68));
+    letter-spacing: 0.7px;
+}
+
+.btn-delete {
+    background: repeating-linear-gradient(rgb(212, 37, 37), rgb(212, 37, 37));
+    letter-spacing: 0.7px;
+
+}
+
+.img-cus {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.box-cus {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0.5px rgba(161, 161, 161, 0.1);
+}
